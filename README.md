@@ -14,7 +14,7 @@ Hello, I'm Loïc!<br><br>I'm a passionate **Full Stack Developer** from Québec 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Loiiiccc/Loiiiccc/output/github-snake.svg" />
 </picture>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kery73ee3k36ffot2kgs4nqs54&count=2)
