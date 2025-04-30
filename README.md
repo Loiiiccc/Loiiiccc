@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Loïc!<br><br>I'm a passionate **Full Stack Developer** from Québec 🇨🇦  <br>pecializing in **Next.js**, **Node.js**, and **.NET** to build robust and scalable web applications.<br><br>- 🔭 I’m currently working on a delivery app platform  <br>- 🌱 I’m learning more about DevOps & CI/CD  <br>- 💬 Ask me about JavaScript, TypeScript, .NET, or backend architecture  
+Hello, I'm Loïc!<br><br>I'm a passionate **Full Stack Developer** from Québec 🇨🇦  <br>Specializing in **Next.js**, **Node.js**, and **.NET** to build robust and scalable web applications.<br><br>- 🔭 I’m currently working on a delivery app platform  <br>- 🌱 I’m learning more about DevOps & CI/CD  <br>- 💬 Ask me about JavaScript, TypeScript, .NET, or backend architecture  
 
 
 ## 🌐 Socials:
