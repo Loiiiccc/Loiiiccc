@@ -11,3 +11,5 @@ Hello, I'm Loïc!<br><br>I'm a passionate **Full Stack Developer** from Québec 
 ---
 [![](https://visitcount.itsvg.in/api?id=Loiiiccc&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kery73ee3k36ffot2kgs4nqs54&count=2)
